@@ -43,12 +43,12 @@ function App() {
     <div className="site">
       <header className="navbar">
         <div className="brand">
-          <img src="/images/logo2.png" alt="ตรอ.เบธเอล4T" />
+          <img src="/images/logo.png" alt="ตรอ.เบธเอล4T" />
           <span>ตรอ.เบธเอล4T</span>
         </div>
 
         <a
-                href="https://line.me/ti/p/~0656093295"
+                href="https://line.me/ti/p/~0863404546"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn greenBtn2"
