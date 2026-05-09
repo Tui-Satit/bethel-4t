@@ -54,12 +54,13 @@ body {
   align-items: center;
   gap: 14px;
   font-weight: 900;
+  font-size: 40px;
   color: #08206b;
 }
 
 .brand img {
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
   object-fit: cover;
   border-radius: 18px;
   background: white;
@@ -164,7 +165,6 @@ body {
 
 .eyebrow {
   display: inline-block;
-  margin-top: 100px;
   margin-bottom: 22px;
   padding: 10px 18px;
   border-radius: 999px;

@@ -48,7 +48,7 @@ function App() {
         </div>
 
         <a
-                href="https://line.me/ti/p/~0863404546"
+                href="https://line.me/ti/p/~0656093295"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn greenBtn2"
@@ -74,6 +74,10 @@ function App() {
         บริการตรวจสภาพรถยนต์ รถจักรยานยนต์ ต่อภาษี พ.ร.บ.
         ประกันภัย โอนรถ ติดฟิล์ม และแก้ไขรถยนต์ควันดำ
       </p>
+      <p>เปิด: จันทร์-เสาร์
+        เวลา: 08:00-17:00น.
+        ซอยหัวหมาก16
+      </p>
 
       <div className="heroActions">
         <a href="tel:0656093295" className="heroBtn heroBtnPrimary">
@@ -81,13 +85,13 @@ function App() {
         </a>
 
         <a
-          href="https://line.me/ti/p/~0656093295"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="heroBtn heroBtnLine"
-        >
-          💬 แอด LINE
-        </a>
+              href="https://www.facebook.com/bethel4t"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn blueBtn"
+            >
+              Facebook
+            </a>
       </div>
 
       <div className="heroTrust">
@@ -181,6 +185,7 @@ function App() {
     <span>Location</span>
     <h2>แผนที่ร้าน</h2>
     <p>เดินทางมาที่ ตรอ.เบธเอล4T ได้สะดวก</p>
+    <p>12/4 ซอยหัวหมาก16 ถนนหัวหมาก แขวงหัวหมาก เขตบางกะปิ</p>
   </div>
 
   <div className="mapCard">
