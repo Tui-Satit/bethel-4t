@@ -106,8 +106,7 @@ function App() {
         <img src="/images/logo.png" alt="ตรอ.เบธเอล4T" />
       </div>
 
-      <div className="floatingBadge topBadge">✅ ครบวงจร</div>
-      <div className="floatingBadge bottomBadge">🚗 ตรวจสภาพรถ</div>
+      
     </div>
   </div>
 </section>
